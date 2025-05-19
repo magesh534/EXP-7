@@ -116,6 +116,17 @@ Can be extended to AI oracles for real-time market data.
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
+![exp 7(i)](https://github.com/user-attachments/assets/d2c0663d-6e8d-49ab-a8f7-e1719a091cfe)
+
+![exp 7(ii)](https://github.com/user-attachments/assets/8782bfc6-4c37-46d8-8c58-c60689e4fd5b)
+
+![exp 7(iii)](https://github.com/user-attachments/assets/30df67b7-f001-481a-8994-9aeec71f47a0)
+
+![exp 7(iv)](https://github.com/user-attachments/assets/3db03e64-b068-4273-a156-d162678387ba)
+
+![exp 7(v)](https://github.com/user-attachments/assets/c433ec0d-aa09-4fbf-ab50-90ad71301bf5)
+
 # RESULT:
 
+Thus the program was implemented and executed successfully and the output was verified
 
